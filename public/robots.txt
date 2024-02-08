@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sh-tkst.github.io/sitemap.xml
